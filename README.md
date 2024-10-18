@@ -14,21 +14,7 @@ Tools: Git, GitHub, VS Code, Postman
 Bachelor of Science 
 Vardhman Mahaveer Open University, 2024
 
-## Currently : 
-## Solving 30 daya of JavaScript on hackerRank
-Reached to day 20. 🤩
-My Strateghy to solve problem
-      - Read the question thrice.
-      - Think about diifrent approches
-      - Consider different approaches.
-      - If one works, continue solving ahead.
-      - Otherwise, search for how to address specific issues (e.g., sorting, checking integers, reversing, etc.).
-      -Once you've found the solution, implement it independently.
-## Learning NextJs
-So far, I've learned:
-     - File-based routing.
-     - Dynamic routing using [] brackets in folders.
-     - Handling layouts.
+
 ## Seeking New Career Opportunities
 I'm currently seeking new career opportunities to further my growth and contribute to innovative projects.
 
